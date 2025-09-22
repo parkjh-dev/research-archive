@@ -1,0 +1,2 @@
+fat: ipfs://QmXs5KXA8WHMEXgK4cerA1RBYMvzhi9FRtDddrRduDZYbX
+skinny: ipfs://QmYbofjHF7u3CceUVwSvr5bDzZMPbh6JFmXi3Dt1XHs5oW
